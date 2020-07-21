@@ -1,0 +1,3 @@
+rootProject.name='My Application'
+include ':app', ':core'
+project(':core').projectDir = new File('/Users/dante.ahn/Desktop/core')
